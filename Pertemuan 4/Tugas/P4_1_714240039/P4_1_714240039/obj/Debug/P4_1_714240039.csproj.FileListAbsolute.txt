@@ -1,0 +1,8 @@
+C:\Users\lenovo\OneDrive\文档\Semester 3\PBO II\P4_1_714240039\P4_1_714240039\obj\Debug\P4_1_714240039.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\文档\Semester 3\PBO II\P4_1_714240039\P4_1_714240039\obj\Debug\P4_1_714240039.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\文档\Semester 3\PBO II\P4_1_714240039\P4_1_714240039\bin\Debug\P4_1_714240039.exe.config
+C:\Users\lenovo\OneDrive\文档\Semester 3\PBO II\P4_1_714240039\P4_1_714240039\bin\Debug\P4_1_714240039.exe
+C:\Users\lenovo\OneDrive\文档\Semester 3\PBO II\P4_1_714240039\P4_1_714240039\bin\Debug\P4_1_714240039.pdb
+C:\Users\lenovo\OneDrive\文档\Semester 3\PBO II\P4_1_714240039\P4_1_714240039\obj\Debug\P4_1_714240039.exe
+C:\Users\lenovo\OneDrive\文档\Semester 3\PBO II\P4_1_714240039\P4_1_714240039\obj\Debug\P4_1_714240039.pdb
+C:\Users\lenovo\OneDrive\文档\Semester 3\PBO II\P4_1_714240039\P4_1_714240039\obj\Debug\P4_1_714240039.exe.config
