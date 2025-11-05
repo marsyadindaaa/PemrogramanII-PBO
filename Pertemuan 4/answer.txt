@@ -1,1 +1,20 @@
+BAGIAN I
+14.Error muncul karna class Product_714240039 belum memiliki construction atau method yang sesuai 
+dengan yg dipanggil di ProductTest_714140039 ( class atau anggota belum ada didefinisikan diprogram utama)
+19.hasilnya kosong karna property MyType belum dikasih nilai. Field MyType secara default bernilai null
+sehingga ketika dipanggil di program utama tidak ada teks atau nilai yang ditampilkan, ini menunjukkan objek udah dibuat 
+tapi datanya belum diisi
+24.karena Property.MyType pada objek myproduct udah dikasih nilai yaitu "DVD"
+
+BAGIAN II
+8.Type dan judul buku tidak muncul karena method abstrak DisplayInfo() pada class Product_714240039 belum diimplementasikan
+(belum di override) di class Book_714240039, jadi saat di debuging atau dijalankan tidak ada instruksi yang dieksekusi untuk menampilkan data atau nilai
+fenomena ini disebut POLYMORPHISM(kemampuan class turunan untuk mendefinisikan ulang perilaku atau method dari class induknya)
+12.tipe dan judul buku sudah tampil dilayar karna class Book_714240039 telah mengoverride method abstrak DisplayInfo()
+dari class Product_714240039. Implementasi method tersebut menampilkan nilai MyType dan My Title, saat dijalankan objel myBook
+memanggil hasil overriding dari subclass, bukan dari class induk
+19. Output menampilkan "has 300 pages" untuk objek Book dan "has a duration of 145 minutes" untuk objek DVD karena 
+keduanya merupakan hasil overriding method DisplayInfo() dari class abstrak Product_714240039, setiap subclass memiliki atribut berbeda
+dan menampilkan informasi sesuai atribut masing".Fenomena ini disebut Polymorphism dan Inheritance(method yg sama menghasilkan perilaku yg berbeda tergantung
+pada objek yg memanggilnya)
 
