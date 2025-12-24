@@ -1,0 +1,10 @@
+C:\Users\nural\source\repos\P5_1_714240035\P5_1_714240035\bin\Debug\P5_1_714240035.exe.config
+C:\Users\nural\source\repos\P5_1_714240035\P5_1_714240035\bin\Debug\P5_1_714240035.exe
+C:\Users\nural\source\repos\P5_1_714240035\P5_1_714240035\bin\Debug\P5_1_714240035.pdb
+C:\Users\nural\source\repos\P5_1_714240035\P5_1_714240035\obj\Debug\P5_1_714240035.csproj.AssemblyReference.cache
+C:\Users\nural\source\repos\P5_1_714240035\P5_1_714240035\obj\Debug\P5_1_714240035.Form1.resources
+C:\Users\nural\source\repos\P5_1_714240035\P5_1_714240035\obj\Debug\P5_1_714240035.csproj.GenerateResource.cache
+C:\Users\nural\source\repos\P5_1_714240035\P5_1_714240035\obj\Debug\P5_1_714240035.csproj.CoreCompileInputs.cache
+C:\Users\nural\source\repos\P5_1_714240035\P5_1_714240035\obj\Debug\P5_1_714240035.exe
+C:\Users\nural\source\repos\P5_1_714240035\P5_1_714240035\obj\Debug\P5_1_714240035.pdb
+C:\Users\nural\source\repos\P5_1_714240035\P5_1_714240035\obj\Debug\P5_1_714240035.exe.config
